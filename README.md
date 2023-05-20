@@ -1,5 +1,7 @@
 # project2_200218324
 mobile shop app project collab of 200218334 and 200218324
+
+
 ![Screenshot (444)](https://github.com/rayyy1235/project2_200218324/assets/130174146/3238d5a9-ed70-4b06-98fe-8b9ee4ef7065)
 
 ![Screenshot (443)](https://github.com/rayyy1235/project2_200218324/assets/130174146/79330846-31e3-421d-9a1a-3e3509e5bdbb)
